@@ -1,0 +1,1058 @@
+{
+   "checksum": "f9692811076bdb335c6b7a9ae77f82cf",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13062561634185867",
+            "id": "77",
+            "meta_info": {
+               "stars.id": "ssc_6b6b3315aba656c0",
+               "stars.isSynced": "true"
+            },
+            "name": "Harrison J. Goldstein",
+            "sync_transaction_version": "33",
+            "type": "url",
+            "url": "http://www.harrisongoldstein.me/"
+         }, {
+            "date_added": "13038782768502000",
+            "id": "78",
+            "meta_info": {
+               "stars.id": "ssc_17f53260c849bab5",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5aZEJiNkpmS1JjWHNOTQ==",
+               "stars.type": "2"
+            },
+            "name": "Facebook",
+            "sync_transaction_version": "94",
+            "type": "url",
+            "url": "http://www.facebook.com/home.php?"
+         }, {
+            "date_added": "13069697305278000",
+            "id": "79",
+            "meta_info": {
+               "stars.id": "ssc_1e51d674a253bd9b",
+               "stars.imageData": "Cg5tbUpHSkpVVGNfODZxTRJqCmRodHRwczovL3N0YXRpYy5saWNkbi5jb20vc2Nkcy9jb21tb24vdS9pbWFnZXMvYXBwcy9ob21lL2d1ZXN0aG9tZS9naHBfaW50ZXJuYXRpb25hbF82XzE1MHgxNTBfdjEucG5nEHgYeBphCltodHRwOi8vdDIuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1JsWEJMNEJqcHlSb253Mi1EMkVRUFNQbVFHYWlKM25YOFVYVS16ZEY3bjQ5N29NTFdjEHgYeCIOCAEQeBh4QgYSBJQKef8=",
+               "stars.pageData": "Ig5Bc3pWWlJjV3haRUZMTQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Chrome44"
+            },
+            "name": "LinkedIn",
+            "sync_transaction_version": "80",
+            "type": "url",
+            "url": "https://www.linkedin.com/"
+         }, {
+            "date_added": "13038782768502000",
+            "id": "80",
+            "meta_info": {
+               "stars.id": "ssc_b314c16946e15f31",
+               "stars.imageData": "Cg4yY3JuT0xZYzNWcFZ0TRI3Ci9odHRwOi8vaS55dGltZy5jb20vdmkvUDktRkNDNkk3dTAvaHFkZWZhdWx0LmpwZxCDAhjCARpjCltodHRwOi8vdDEuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1JsX3RKLXZneDZFQkhTb3VaTnR1LVhyeFFJa2kyUUhtYmIyTHpGWVpTLUtMSkJMRFZSEIMCGMIBIhAIARCDAhjCAUIGEgQALX19KNfKlNDbz8wC",
+               "stars.pageData": "Ig52elA2d3ViUVdKcjd1TQ==",
+               "stars.type": "2",
+               "stars.version": "sync.server.Chrome45"
+            },
+            "name": "YouTube",
+            "sync_transaction_version": "77",
+            "type": "url",
+            "url": "http://www.youtube.com/"
+         }, {
+            "date_added": "13061940455667287",
+            "id": "81",
+            "meta_info": {
+               "stars.id": "ssc_e2ef8e96b3731049",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5reDZvempTZ2J6SmdRTQ==",
+               "stars.type": "2"
+            },
+            "name": "GitHub",
+            "sync_transaction_version": "95",
+            "type": "url",
+            "url": "https://github.com/login"
+         } ],
+         "date_added": "13075706593352172",
+         "date_modified": "13097798913164569",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13021157541432060",
+               "id": "73",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_c8cb3d7ac79bfc09",
+                  "stars.imageData": "Cg4xV09rRDZCazh5Y2lMTRJSCkxodHRwOi8vYWthbWFpLmVkZWFsLmNvbS9pbWFnZXMvY2F0YWxvZzE3MTQwL2ZvbGRlcjExNDM4OS9pbWcxMTY1NTQ5NHRobWIuanBnEFAYUBphCltodHRwOi8vdDEuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1JxVGpMcXJrWFpjQkZpMHdKWnhjTERYeUZDMWkzTF9JMFBBTUNvZERfMDVlN2NXeHBuEFAYUCIOCAEQUBhQQgYSBJJuAP8o3cvQzMnTxQI=",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig45RDRONHd2TTAxa2hTTQ=="
+               },
+               "name": "Dell Auction",
+               "type": "url",
+               "url": "http://www.dellauction.com/"
+            }, {
+               "date_added": "13021157541432175",
+               "id": "74",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_4039db8878ddd964",
+                  "stars.imageData": "Cg5rbHhMdElubFYxTUhYTRJaClJodHRwOi8vaS5kZWxsLmNvbS9pbWFnZXMvZ2xvYmFsL3NoYXJlZC9zdXBwb3J0L3BvcnRhbHMvZ29sLXNlY3VyaXR5LTcyOHgxNTAtZW4uanBnENgFGJYBGmIKW2h0dHA6Ly90Mi5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUXM1VENpTTI1X1hmcnptWGZoNmx0WWQ5dnZkV2NkblBwRmZKRkJFdndGOUVLLVlhX3gQ7wMYZiIPCAEQ7wMYZkIGEgSF0AAAKO665sGw0cUC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5hbEFNQ2t3N3pBUG1ZTQ=="
+               },
+               "name": "Dell Internet Security",
+               "type": "url",
+               "url": "http://support.dell.com/support/topics/global.aspx/support/security/security?c=us&cs=19&l=en&s=dhs"
+            }, {
+               "date_added": "12982208486102439",
+               "id": "75",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_a7e4fb3eccf3d216",
+                  "stars.imageData": "Cg5vbzhaLW5BZmtFaGJJTRJTCk1odHRwOi8vY2hhdDEudXMuZGVsbC5jb20vbmV0YWdlbnQvY2xpZW50L3VuaWZpZWQvZGVsbC9pbWdzL2RlbGxfYmFsbF9sb2dvLmJtcBBDGE0aYQpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NSS1piRkdfbS10N1VyQmVFdVo4YkRLbnJuWDZkMnNjb25SQmJzaDJkcXhueFNEZjI4bxBDGE0iDggBEEMYTUIGEgSbk36AKJ2226aj08UC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5XOHdqVGtQNEw0OFU5TQ=="
+               },
+               "name": "Dell",
+               "type": "url",
+               "url": "http://www.dell.com/"
+            }, {
+               "date_added": "13021157541432494",
+               "id": "76",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_389fdd5c1e41ab67",
+                  "stars.imageData": "Cg5ZX2hPeVVWU3R2VGVsTRJwCmpodHRwOi8vaS5kZWxsLmNvbS9zaXRlcy9pbWFnZWNvbnRlbnQvYXBwLW1lcmNoYW5kaXppbmcvZXN1cHBvcnQvbXNlL1B1Ymxpc2hpbmdJbWFnZXMvaWNvbl9vcmRlcl9zdGF0dXMucG5nEFwYVRphCltodHRwOi8vdDMuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1NoQ3NnWl90SzB3UDRaMWRudVB1dm9jMTl2TTE1Z29Zc2Vhanp2U0luLUNGLV9NZjhkEFcYUCIOCAEQVxhQQgYSBKQOAIAoitfNl8LRxQI=",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig55VENvR2JubnF0TnlITQ=="
+               },
+               "name": "Support.Dell.Com",
+               "type": "url",
+               "url": "http://support.dell.com/support/index.aspx?c=us&l=en&s=gen"
+            } ],
+            "date_added": "13021157541422288",
+            "date_modified": "13075706624353917",
+            "id": "13",
+            "meta_info": {
+               "stars.id": "ssf_09781276f6012838",
+               "stars.isPublic": "false",
+               "stars.isSynced": "true"
+            },
+            "name": "Dell",
+            "type": "folder"
+         }, {
+            "date_added": "12982208486101439",
+            "id": "14",
+            "meta_info": {
+               "stars.flags": "6",
+               "stars.id": "ssc_eca10dd446fd1030",
+               "stars.imageData": "Cg5naUJjYk1CendOemU0TRJhClpodHRwOi8vd3d3LmZyZWVob2xkdHJvb3AxOC5vcmcvXy9yc3JjLzEzMzQwMDI1ODUyNDcvaG9tZS8wMy0zMS0xMi5qcGc/aGVpZ2h0PTE0NyZ3aWR0aD00MDAQvgIYdRpiCltodHRwOi8vdDIuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1R6LVd5amxfd3Noa05hZFJYR3Mxc2VydC1lUWItVVhqbFMtTmJ0QlVPTDBNNldSQlRKEL4CGHUiHggBEL4CGHUggj9CBhIEAAF9aEoKaW1hZ2UvanBlZw==",
+               "stars.isSynced": "true",
+               "stars.pageData": "EjRUaGUgT2ZmaWNpYWwgV2Vic2l0ZSBvZiBCU0EgVHJvb3AgMTggaW4gRnJlZWhvbGQsIE5KIg5abkpKZU8tcmJ5YXZoTQ=="
+            },
+            "name": "Freehold Troop 18",
+            "type": "url",
+            "url": "http://www.freeholdtroop18.org/"
+         }, {
+            "children": [ {
+               "date_added": "13021157541430047",
+               "id": "57",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_d4523ad2e374fc19",
+                  "stars.imageData": "Cg5ucGR5Vlo1cFFqc3drTRIyCipodHRwOi8vY2RuLnVzdGF0aWsuY29tL19pbWcvdWctbG9nby1mYi5wbmcQgAEYgAEaYQpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUcWMxRENETG4tNUxUNmVzVnFxZENHbmVlREJkTGRSYVBtc29wTFRNcTBrMnFIRmFzURBmGGYiDggBEGYYZkIGEgSAAgD/KPbgj6Dk08UC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5yT3FfRk92ODZLQVFvTQ=="
+               },
+               "name": "21 Guns Chords",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/g/green_day/21_guns_ver3_crd.htm"
+            }, {
+               "date_added": "13021157541430165",
+               "id": "58",
+               "meta_info": {
+                  "stars.id": "ssc_51bd78f3d8c9fe55",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5WUndQVnQ3Tmdfb0hmTQ=="
+               },
+               "name": "25 To Life tab",
+               "type": "url",
+               "url": "http://tabs.ultimate-guitar.com/e/eminem/25_to_life_tab.htm"
+            }, {
+               "date_added": "13021157541430285",
+               "id": "59",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_2298d1bc041cb2a5",
+                  "stars.imageData": "Cg5ucGR5Vlo1cFFqc3drTRIyCipodHRwOi8vY2RuLnVzdGF0aWsuY29tL19pbWcvdWctbG9nby1mYi5wbmcQgAEYgAEaYQpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUcWMxRENETG4tNUxUNmVzVnFxZENHbmVlREJkTGRSYVBtc29wTFRNcTBrMnFIRmFzURBmGGYiDggBEGYYZkIGEgSAAgD/KKHFicHO08UC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5oMVBfTHMzOXlTaDhxTQ=="
+               },
+               "name": "Beat It tab",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/m/michael_jackson/beat_it_tab.htm"
+            }, {
+               "date_added": "13021157541430403",
+               "id": "60",
+               "meta_info": {
+                  "stars.id": "ssc_0dfc6aea959f1b0b",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5rNG0zR3JqX1JXelpBTQ=="
+               },
+               "name": "Family Guy Theme tab",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/m/misc_television/family_guy_theme_tab.htm"
+            }, {
+               "date_added": "13021157541430525",
+               "id": "61",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_3e6845b75d615815",
+                  "stars.imageData": "Cg5ucGR5Vlo1cFFqc3drTRIyCipodHRwOi8vY2RuLnVzdGF0aWsuY29tL19pbWcvdWctbG9nby1mYi5wbmcQgAEYgAEaYQpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUcWMxRENETG4tNUxUNmVzVnFxZENHbmVlREJkTGRSYVBtc29wTFRNcTBrMnFIRmFzURBmGGYiDggBEGYYZkIGEgSAAgD/KMGrg5Pr0cUC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig4xdXg4QlI1ZF9yRktCTQ=="
+               },
+               "name": "Hallelujah Chords",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/j/jeff_buckley/hallelujah_crd.htm"
+            }, {
+               "date_added": "13021157541430642",
+               "id": "62",
+               "meta_info": {
+                  "stars.id": "ssc_b66217b075bf841b",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5ySkFxaDJvbV9QQVF3TQ=="
+               },
+               "name": "Harry Potter Theme tab",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/h/harry_and_the_potters/harry_potter_theme_tab.htm"
+            }, {
+               "date_added": "13021157541430763",
+               "id": "63",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_4581c36736da19e9",
+                  "stars.imageData": "Cg5ucGR5Vlo1cFFqc3drTRIyCipodHRwOi8vY2RuLnVzdGF0aWsuY29tL19pbWcvdWctbG9nby1mYi5wbmcQgAEYgAEaYQpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUcWMxRENETG4tNUxUNmVzVnFxZENHbmVlREJkTGRSYVBtc29wTFRNcTBrMnFIRmFzURBmGGYiDggBEGYYZkIGEgSAAgD/KMGrg5Pr0cUC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5SZWNmQ3BSZkE1WE5KTQ=="
+               },
+               "name": "Hey There Delilah tab",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/p/plain_white_ts/hey_there_delilah_ver2_tab.htm"
+            }, {
+               "date_added": "13021157541430886",
+               "id": "64",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_9a5bb9ef27646b65",
+                  "stars.imageData": "Cg5ucGR5Vlo1cFFqc3drTRIyCipodHRwOi8vY2RuLnVzdGF0aWsuY29tL19pbWcvdWctbG9nby1mYi5wbmcQgAEYgAEaYQpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUcWMxRENETG4tNUxUNmVzVnFxZENHbmVlREJkTGRSYVBtc29wTFRNcTBrMnFIRmFzURBmGGYiDggBEGYYZkIGEgSAAgD/KITSoNWJ08UC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig43Nm9KVWVsVWRXQjZ6TQ=="
+               },
+               "name": "How To Save A Life Chords",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/t/the_fray/how_to_save_a_life_crd.htm"
+            }, {
+               "date_added": "13021157541431018",
+               "id": "65",
+               "meta_info": {
+                  "stars.id": "ssc_755818a91a7bb5fc",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig45R0V4SGl6TmZYdVV5TQ=="
+               },
+               "name": "Indiana Jones Theme Intro tab",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/m/misc_soundtrack/indiana_jones_theme_intro_tab.htm"
+            }, {
+               "date_added": "13021157541431147",
+               "id": "66",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_502eaccd42d58b29",
+                  "stars.imageData": "Cg5ucGR5Vlo1cFFqc3drTRIyCipodHRwOi8vY2RuLnVzdGF0aWsuY29tL19pbWcvdWctbG9nby1mYi5wbmcQgAEYgAEaYQpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUcWMxRENETG4tNUxUNmVzVnFxZENHbmVlREJkTGRSYVBtc29wTFRNcTBrMnFIRmFzURBmGGYiDggBEGYYZkIGEgSAAgD/KMGrg5Pr0cUC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig44N1NNS01VQUZNMnVVTQ=="
+               },
+               "name": "Just The Way You Are Chords",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/b/bruno_mars/just_the_way_you_are_crd_970056id_23072010date.htm"
+            }, {
+               "date_added": "13021157541431279",
+               "id": "67",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_94b9d694231d82ad",
+                  "stars.imageData": "Cg5ucGR5Vlo1cFFqc3drTRIyCipodHRwOi8vY2RuLnVzdGF0aWsuY29tL19pbWcvdWctbG9nby1mYi5wbmcQgAEYgAEaYQpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUcWMxRENETG4tNUxUNmVzVnFxZENHbmVlREJkTGRSYVBtc29wTFRNcTBrMnFIRmFzURBmGGYiDggBEGYYZkIGEgSAAgD/KL71moCF08UC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5GTG9pajhDSTE1TWhMTQ=="
+               },
+               "name": "Legend Of Zelda Theme tab",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/m/misc_computer_games/legend_of_zelda_theme_ver2_tab.htm"
+            }, {
+               "date_added": "13021157541431405",
+               "id": "68",
+               "meta_info": {
+                  "stars.id": "ssc_f078a0f6a6b50624",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig54ZmdkVmVSNFRUUng0TQ=="
+               },
+               "name": "Magic tab",
+               "type": "url",
+               "url": "http://tabs.ultimate-guitar.com/b/bob/magic_tab_972725id_30072010date.htm"
+            }, {
+               "date_added": "13021157541431559",
+               "id": "69",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_4a848a852687ae90",
+                  "stars.imageData": "Cg5ucGR5Vlo1cFFqc3drTRIyCipodHRwOi8vY2RuLnVzdGF0aWsuY29tL19pbWcvdWctbG9nby1mYi5wbmcQgAEYgAEaYQpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUcWMxRENETG4tNUxUNmVzVnFxZENHbmVlREJkTGRSYVBtc29wTFRNcTBrMnFIRmFzURBmGGYiDggBEGYYZkIGEgSAAgD/KMGrg5Pr0cUC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig54ZUkxM3pxRE43XzlBTQ=="
+               },
+               "name": "Mario Theme tab",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/m/misc_computer_games/mario_theme_tab.htm"
+            }, {
+               "date_added": "13021157541431684",
+               "id": "70",
+               "meta_info": {
+                  "stars.id": "ssc_4f46b1566a4cae7f",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5uZE1wZjRGZmIzcGFpTQ=="
+               },
+               "name": "Round And Round tab",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/s/selena_gomez/round_and_round_tab.htm"
+            }, {
+               "date_added": "13021157541431806",
+               "id": "71",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_2fff28cbf0eaa091",
+                  "stars.imageData": "Cg5ucGR5Vlo1cFFqc3drTRIyCipodHRwOi8vY2RuLnVzdGF0aWsuY29tL19pbWcvdWctbG9nby1mYi5wbmcQgAEYgAEaYQpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUcWMxRENETG4tNUxUNmVzVnFxZENHbmVlREJkTGRSYVBtc29wTFRNcTBrMnFIRmFzURBmGGYiDggBEGYYZkIGEgSAAgD/KLaV2aLM0cUC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5HT3pySXVlNlUzcEhETQ=="
+               },
+               "name": "Stairway To Heaven Intro tab",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/l/led_zeppelin/stairway_to_heaven_intro_tab.htm"
+            }, {
+               "date_added": "13021157541431934",
+               "id": "72",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_90d3825671d3ea0e",
+                  "stars.imageData": "Cg5ucGR5Vlo1cFFqc3drTRIyCipodHRwOi8vY2RuLnVzdGF0aWsuY29tL19pbWcvdWctbG9nby1mYi5wbmcQgAEYgAEaYQpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUcWMxRENETG4tNUxUNmVzVnFxZENHbmVlREJkTGRSYVBtc29wTFRNcTBrMnFIRmFzURBmGGYiDggBEGYYZkIGEgSAAgD/KL7mlfj60sUC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5uaERBZWE1VXhKZzBwTQ=="
+               },
+               "name": "What Ive Done tab",
+               "type": "url",
+               "url": "http://www.ultimate-guitar.com/tabs/l/linkin_park/what_ive_done_tab.htm"
+            } ],
+            "date_added": "13021157541425131",
+            "date_modified": "13075706624354455",
+            "id": "15",
+            "meta_info": {
+               "stars.id": "ssf_bf4b8d015c2911fa",
+               "stars.isPublic": "false",
+               "stars.isSynced": "true"
+            },
+            "name": "Guitar Tab",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13021157541429817",
+               "id": "55",
+               "meta_info": {
+                  "stars.id": "ssc_d0c4c65602519913",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig4xQVE0M0pDbzdxQ1MwTQ=="
+               },
+               "name": "GobiernoUSA.gov",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?LinkId=129792"
+            }, {
+               "date_added": "13021157541429931",
+               "id": "56",
+               "meta_info": {
+                  "stars.id": "ssc_fcd62acf1dfacb19",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5nblcwQ1NuVGZ0SmhmTQ=="
+               },
+               "name": "USA.gov",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?LinkId=129791"
+            } ],
+            "date_added": "13021157541425230",
+            "date_modified": "13075706624354502",
+            "id": "16",
+            "meta_info": {
+               "stars.id": "ssf_9d6efd528e317185",
+               "stars.isPublic": "false",
+               "stars.isSynced": "true"
+            },
+            "name": "Links for United States",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13021157541429138",
+               "id": "49",
+               "meta_info": {
+                  "stars.id": "ssc_ed892e2e13eb4597",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5xb2UtWldXZ0tRMVlUTQ=="
+               },
+               "name": "MSN Autos",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?LinkId=55143"
+            }, {
+               "date_added": "13021157541429254",
+               "id": "50",
+               "meta_info": {
+                  "stars.id": "ssc_967fea5014e10886",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5zZDc5TENmdkhuSjFiTQ=="
+               },
+               "name": "MSN Entertainment",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?LinkId=68924"
+            }, {
+               "date_added": "13021157541429370",
+               "id": "51",
+               "meta_info": {
+                  "stars.id": "ssc_c2be7aab273fbf33",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig4xQ2xwdTFESmJKdUJ3TQ=="
+               },
+               "name": "MSN Money",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?LinkId=68923"
+            }, {
+               "date_added": "13021157541429483",
+               "id": "52",
+               "meta_info": {
+                  "stars.id": "ssc_416045e393a343dc",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig52WGVGM0hIb3UzM3lQTQ=="
+               },
+               "name": "MSN Sports",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?LinkId=68921"
+            }, {
+               "date_added": "13021157541429595",
+               "id": "53",
+               "meta_info": {
+                  "stars.id": "ssc_ff87ce4f4e2e1ca9",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig4xc2F3cTdFaUQzdllOTQ=="
+               },
+               "name": "MSN",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?LinkId=54729"
+            }, {
+               "date_added": "13021157541429701",
+               "id": "54",
+               "meta_info": {
+                  "stars.id": "ssc_5d0d0caa469fc0a0",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig44dW5vbDhYZFFmQ2VVTQ=="
+               },
+               "name": "MSNBC News",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?LinkId=68922"
+            } ],
+            "date_added": "13021157541425316",
+            "date_modified": "13075706624354570",
+            "id": "17",
+            "meta_info": {
+               "stars.id": "ssf_c74c8f8b57a58fe0",
+               "stars.isPublic": "false",
+               "stars.isSynced": "true"
+            },
+            "name": "MSN Websites",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13021157541428527",
+               "id": "44",
+               "meta_info": {
+                  "stars.id": "ssc_197e7d8d2e84e611",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5kdFZuVTN0ZHctdXBNTQ=="
+               },
+               "name": "IE Add-on site",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?LinkId=50893"
+            }, {
+               "date_added": "13021157541428651",
+               "id": "45",
+               "meta_info": {
+                  "stars.id": "ssc_5da419463fac2b16",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5IeHhQdzBMZEFjQVR3TQ=="
+               },
+               "name": "IE site on Microsoft.com",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?linkid=44661"
+            }, {
+               "date_added": "13021157541428780",
+               "id": "46",
+               "meta_info": {
+                  "stars.id": "ssc_22ec0c7eb0222277",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5GQ29iRGlPNVgxOXp3TQ=="
+               },
+               "name": "Microsoft At Home",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?linkid=55424"
+            }, {
+               "date_added": "13021157541428899",
+               "id": "47",
+               "meta_info": {
+                  "stars.id": "ssc_786fa0a51c2fa41d",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5lU2FYWkhFWHduVmRJTQ=="
+               },
+               "name": "Microsoft At Work",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?linkid=68920"
+            }, {
+               "date_added": "13021157541429018",
+               "id": "48",
+               "meta_info": {
+                  "stars.id": "ssc_5971314681b33793",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig44Y0taQjhLMlhhejMzTQ=="
+               },
+               "name": "Microsoft Store",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?linkid=140813"
+            } ],
+            "date_added": "13021157541425398",
+            "date_modified": "13075706624354629",
+            "id": "18",
+            "meta_info": {
+               "stars.id": "ssf_8a931d6fe1cbdf88",
+               "stars.isPublic": "false",
+               "stars.isSynced": "true"
+            },
+            "name": "Microsoft Websites",
+            "type": "folder"
+         }, {
+            "date_added": "13021157541425487",
+            "id": "19",
+            "meta_info": {
+               "stars.id": "ssc_7a55220eaab95278",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig4yUTgyZ2NydldRMThiTQ=="
+            },
+            "name": "USA Science & Engineering Festival",
+            "type": "url",
+            "url": "http://www.usasciencefestival.org/"
+         }, {
+            "children": [ {
+               "date_added": "13021157541427607",
+               "id": "40",
+               "meta_info": {
+                  "stars.id": "ssc_b3326b76556dd127",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5RdUd3eE12ZHpFZjF2TQ=="
+               },
+               "name": "Get Windows Live",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?LinkId=69172"
+            }, {
+               "date_added": "13021157541427864",
+               "id": "41",
+               "meta_info": {
+                  "stars.id": "ssc_febcc8ac857d8fc1",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig4wR09OZTFWb1JoQk9ZTQ=="
+               },
+               "name": "Windows Live Gallery",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?LinkId=70742"
+            }, {
+               "date_added": "13021157541428146",
+               "id": "42",
+               "meta_info": {
+                  "stars.id": "ssc_0e4e410520ad35a5",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5RRlIxb1kzUzNLbGtqTQ=="
+               },
+               "name": "Windows Live Mail",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?LinkId=68925"
+            }, {
+               "date_added": "13021157541428377",
+               "id": "43",
+               "meta_info": {
+                  "stars.id": "ssc_6aa5c486b1093bf5",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5qLXdQMEE3WU8zSzFsTQ=="
+               },
+               "name": "Windows Live Spaces",
+               "type": "url",
+               "url": "http://go.microsoft.com/fwlink/?LinkId=68927"
+            } ],
+            "date_added": "13021157541425705",
+            "date_modified": "13075706624354777",
+            "id": "20",
+            "meta_info": {
+               "stars.id": "ssf_290726664b259993",
+               "stars.isPublic": "false",
+               "stars.isSynced": "true"
+            },
+            "name": "Windows Live",
+            "type": "folder"
+         }, {
+            "date_added": "13021157541425782",
+            "id": "21",
+            "meta_info": {
+               "stars.flags": "6",
+               "stars.id": "ssc_0385c64f8a22ba44",
+               "stars.imageData": "Cg42djJDeE1MYWFXRERnTRJmCl5odHRwczovL3d3dy55b3lvZ2FtZXMuY29tL2ltYWdlcy9zdGVhbS9leHRlcm5hbF9zaG93Y2FzZS85NS9saXN0X0dPTV9zZXB0X3NtYWxsLnBuZz8xNDEyMjYxODQzEMkCGJkBGmMKW2h0dHA6Ly90Mi5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUzhtUFdtNGpITDZ6V3MwbHh5UURHMzBRSjdTcUs0RnBFZ0Q3ODVJZEo5YmJxZGlEYkYQyQIYmQEiEAgBEMkCGJkBQgYSBIAAAAAo6bCAjMHNxQI=",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5aeTM3RkM0OS1CMUtHTQ=="
+            },
+            "name": "YoYo Games Home",
+            "type": "url",
+            "url": "http://www.yoyogames.com/"
+         }, {
+            "date_added": "12982208486101439",
+            "id": "22",
+            "meta_info": {
+               "stars.flags": "6",
+               "stars.id": "ssc_c3fd05cb485f8137",
+               "stars.imageData": "Cg51Tm9rVk1aaVJsZ2N0TRJlCl1odHRwOi8vd3d3Lmdvb2dsZS5jb20vbG9nb3MvZG9vZGxlcy8yMDE0L2Nvcml0YS1rZW50cy05NnRoLWJpcnRoZGF5LTU3MDQ2NjEyNjg5NTUxMzYuMi1ocC5qcGcQ1wMYtAEaYwpbaHR0cDovL3QwLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUbkFnTWJFUzdxWG1pR1FBdUNTa0owbU5PRzNtMWFZeUVyTzkzMXBjQ19lNTFLRy1JXxDrAhiLASIQCAEQ6wIYiwFCBhIEgCQAACi9gJXqxdPFAg==",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig56aG9vbDhkeEJWNGtvTQ=="
+            },
+            "name": "iGoogle",
+            "type": "url",
+            "url": "http://www.google.com/ig?hl=en&source=iglk"
+         }, {
+            "date_added": "13021157541426101",
+            "id": "23",
+            "meta_info": {
+               "stars.id": "ssc_62883a2d7ec393fe",
+               "stars.isSynced": "true"
+            },
+            "name": "online C++ tutorial Programming Languages",
+            "type": "url",
+            "url": "http://www.intap.net/~drw/cpp/cpp01_01.htm"
+         }, {
+            "date_added": "12982208486102439",
+            "id": "24",
+            "meta_info": {
+               "stars.flags": "6",
+               "stars.id": "ssc_e01b7533f4a655d7",
+               "stars.imageData": "EnMKa2h0dHA6Ly93d3cuYmFraXR3aHkuY29tL3NpdGVzL2RlZmF1bHQvZmlsZXMvbWFpbi1pbWFnZXMvTWFsYWthcyUyMGFuZCUyME1hZ2FuZGElMjBieSUyME5lc3RvciUyMFJlZG9uZG8uanBnEMABGIcC",
+               "stars.isSynced": "true",
+               "stars.pageData": "EkdUaGUgTXl0aCBvZiBNYWxha2FzIGFuZCBNYWdhbmRhLCB0aGUgUGhpbGlwcGluZSBWZXJzaW9uIG9mIEFkYW0gYW5kIEV2ZSIOVjhGZ2ViNHA4X1Y2Wk0="
+            },
+            "name": "Ancient Philippine Creation Myth: Malakas and Maganda | BakitWhy.com",
+            "type": "url",
+            "url": "http://www.bakitwhy.com/articles/ancient-philippine-creation-myth-malakas-and-maganda"
+         }, {
+            "date_added": "12982208486102439",
+            "id": "25",
+            "meta_info": {
+               "stars.id": "ssc_fbe0d2a2ba088ece",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5NQUFPNHZSNUpXRHYtTQ=="
+            },
+            "name": "Naviance",
+            "type": "url",
+            "url": "https://connection.naviance.com/fc/signin.php?hsid=manalapanhs"
+         }, {
+            "date_added": "13021157541426863",
+            "id": "26",
+            "meta_info": {
+               "stars.flags": "6",
+               "stars.id": "ssc_30df8688646b0136",
+               "stars.imageData": "Cg5TZTBiMWRySHNlODVFTRJLCkRodHRwOi8vd3d3LnBoc2Nob29sLmNvbS9zY2llbmNlL2Jpb2xvZ3lfcGxhY2UvaW1hZ2VzL2hvbWVfaW5zdHJMLmdpZhB1GMUBGmIKW2h0dHA6Ly90MS5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjVFp4V2hDQV9CaEIyRmtFMEhuUXJIM0U0ZjNBYWtvSWxMVFBNdWMzalFlaTV5YkVPYnkQdRjFASISCAEQdRjFASCuNkIGEgSAAAAA",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5DUk1WNXVRbC0yZ0R1TQ=="
+            },
+            "name": "AP Labs",
+            "type": "url",
+            "url": "http://www.phschool.com/science/biology_place/labbench/index.html"
+         }, {
+            "date_added": "13021157541427062",
+            "id": "27",
+            "meta_info": {
+               "stars.flags": "6",
+               "stars.id": "ssc_eda5fb2d21671a2f",
+               "stars.imageData": "Cg5XVXU1eDVJcmQ1OEZPTRJTCkxodHRwOi8vaW1hZ2VzLmhpZ2hzcGVlZGJhY2tib25lLm5ldC90ZC9tYXN0aGVhZF92Mi9tYXN0aGVhZC1uYXYtdmVydF92M2EucG5nEMAHGCUaYgpbaHR0cDovL3QxLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NRQmxFU0NQWkJGU3dwc2V4Y1FrSTNUTE9KR1RleTVzVmp3Umt1dHpTMThzLTBXZXZPYhDYBBguIhIIARDYBBguII45QgYSBIAAAAA=",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5aSWwwRmdySzVMbi03TQ=="
+            },
+            "name": "TigerDirect.com coupons, coupons TigerDirect.com, discount coupons TigerDirect.com - Our coupons.",
+            "type": "url",
+            "url": "http://www.tigerdirect.com/sectors/Rebates/index.asp?Tab=0"
+         }, {
+            "date_added": "13018719618936577",
+            "id": "28",
+            "meta_info": {
+               "stars.flags": "6",
+               "stars.id": "ssc_ae0668ef341e9cab",
+               "stars.imageData": "Cg5Pa19sRm1oSVlWdldTTRI5CjFodHRwczovL25qdnMuZGVzaXJlMmxlYXJuLmNvbS9pbWFnZXMvd29ya2luZzMuanBnEOQBGKgBGmMKW2h0dHA6Ly90Mi5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjVF9HN00zT0hpanZRWTd2ampGdUhyN3NrQm13NVdLbWdMREFGMHloUmtEMEJMbktDZUoQ5AEYqAEiHwgBEOQBGKgBILA1QgYSBAABfGZKCmltYWdlL2pwZWc=",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5Kc3VOZTRTcC13M1VGTQ=="
+            },
+            "name": "Virtual School",
+            "type": "url",
+            "url": "https://njvs.desire2learn.com/"
+         }, {
+            "date_added": "13024286201833806",
+            "id": "29",
+            "meta_info": {
+               "stars.flags": "6",
+               "stars.id": "ssc_07aca7ae6dca2dd4",
+               "stars.isSynced": "true",
+               "stars.pageData": "EsYCVGhpcyBzaXRlIG1haW5seSBjb25zaXN0IHdpdGggd29ya2luZyBhbmQgdGVzdGVkIHZlcnkgcmFyZSBhbmQgaW50ZXJlc3RpbmcgcHJvamVjdHMuClRoZXJlIGFyZSBzb21lIHNvdXJjZSBjb2RlcyBmb3IgTWljcm9jb250cm9sbGVyIHByb2plY3RzIGFuZCBhbGwgcHJvamVjdHMgd2VyZSBkZXNpZ25lZCBmb3IgYmVnaW5uZXJzIHRvIGJldHRlciB1bmRlcnN0YW5kaW5nLkFuZCBhbHNvIHRoZXJlIGFyZSBzb21lIHByb2plY3RzIGp1c3QgdXNpbmcgc2ltcGxlIEVsZWN0cm9uaWNzIHBhcnRzIHN1Y2ggYXMgU3dpdGNoZXMsIFJlbGF5cywgSUNzIGFuZCBUcmFuc2lzdG9ycy4iDk9yR0VWRXROTnNfRFpN"
+            },
+            "name": "Remote Thing",
+            "type": "url",
+            "url": "https://sites.google.com/site/ehobbyprojects/jvcremote"
+         }, {
+            "date_added": "13038628756690820",
+            "id": "30",
+            "meta_info": {
+               "stars.flags": "6",
+               "stars.id": "ssc_ca4eb7f6b239e6a8",
+               "stars.imageData": "Cg5FNENrTE5xRjg2U2VqTRJCCjtodHRwOi8vd3d3LmNvdW50YmFzaWV0aGVhdHJlLm9yZy9pbWFnZXMvY21zL0NpdGlfYnV0dG9uLmpwZxCoARhkGmIKW2h0dHA6Ly90My5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUkVZTkVfTjBjNmlIUHQzYUJ6SjVsZXdVQ3ROUl9hbl9FTDJiTFQ4VGJKTmRub20tX0IQqAEYZCIeCAEQqAEYZCC3IUIGEgSAAAAASgppbWFnZS9qcGVn",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5jUFMtMWF3aWJERU9NTQ=="
+            },
+            "name": "Count Basie Theatre : Show",
+            "type": "url",
+            "url": "http://countbasietheatre.org/calendar/show/show.asp?id=43248576"
+         }, {
+            "children": [ {
+               "date_added": "13054597872928722",
+               "id": "34",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_227834a5ffa929e8",
+                  "stars.imageData": "Cg5UTDJfZk10QkdNb2dTTRJICkBodHRwOi8vd3d3LmNzLmNvcm5lbGwuZWR1L0NvdXJzZXMvY3MyMTEyLzIwMTRmYS9pbWFnZXMvZ3JhbnQuanBnELcBGJMCGmMKW2h0dHA6Ly90MC5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjU1VEX3F0aEczNWZUYVJNSF85WFJ3QTlxdWhybjdOSnB1RmdVWmk3bEJkbjVWOG5nYlgQtwEYkwIiHwgBELcBGJMCIPsrQgYSBIhpb4NKCmltYWdlL2pwZWc=",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5JVHZvYnJVZFY0SXJ5TQ=="
+               },
+               "name": "CS 2112/ENGRD 2112 Fall 2014",
+               "type": "url",
+               "url": "http://www.cs.cornell.edu/Courses/cs2112/2014fa/"
+            }, {
+               "date_added": "13054597883977722",
+               "id": "35",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_7dc7fa26ba259336",
+                  "stars.imageData": "Cg5IY19rVXgtTDJPOC0tTRIyCitodHRwOi8vd3d3LnppbXJpZGUuY29tL2ltYWdlcy9ob21lL2xvZ28ucG5nEJQBGCoaYgpbaHR0cDovL3QxLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NSdE9YUDJ3MUp1YmxDb0tORlFvN3dWQm1GdktpdVZmdmZhRXpVZkpZbjN4TjdKUFVUaxCUARgqIh0IARCUARgqIIsNQgYSBIAAAABKCWltYWdlL3BuZw==",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "EntaaW1yaWRlIGlzIGEgc29jaWFsIHJpZGVzaGFyaW5nIGNvbW11bml0eSwgd2hlcmUgZHJpdmVycyBjYW4gc2VsbCB0aGUgZW1wdHkgc2VhdHMgaW4gdGhlaXIgY2FyIGFuZCBwYXNzZW5nZXJzIGNhbiBidXkgdGhlbS4iDnAzN1FJVGhKX25LeFpN"
+               },
+               "name": "Zimride",
+               "type": "url",
+               "url": "http://www.zimride.com/"
+            }, {
+               "date_added": "13054597913199000",
+               "id": "36",
+               "meta_info": {
+                  "stars.id": "ssc_cb4806a1bde7fe08",
+                  "stars.imageData": "Cg5MRGlpejliYk5mNXQwTRJPCkdodHRwczovL2Fzc2V0cy1jZG4uZ2l0aHViLmNvbS9pbWFnZXMvbW9kdWxlcy9vcGVuX2dyYXBoL2dpdGh1Yi1sb2dvLnBuZxCwCRiwCRpjCltodHRwOi8vdDAuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1FQWTlTLUJtQ3lfSXNmU29XZzRsVXJtanZwWDlNQjQ1cmZQbWpvUmRMS2x1bkttdXMxEOEBGOEBIhAIARDhARjhAUIGEgSJ/3//KO65lZbF08UC",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Ig5TWmdrZENaNWsydllfTQ==",
+                  "stars.type": "2"
+               },
+               "name": "GitHub",
+               "sync_transaction_version": "87",
+               "type": "url",
+               "url": "https://github.com/"
+            }, {
+               "date_added": "13054597905336154",
+               "id": "37",
+               "meta_info": {
+                  "stars.id": "ssc_00b385dd19f29835",
+                  "stars.isSynced": "true"
+               },
+               "name": "Blackboard",
+               "sync_transaction_version": "85",
+               "type": "url",
+               "url": "https://blackboard.cornell.edu/"
+            }, {
+               "date_added": "13054597948298154",
+               "id": "38",
+               "meta_info": {
+                  "stars.flags": "6",
+                  "stars.id": "ssc_1f9ec2a17fab04f8",
+                  "stars.imageData": "Cg54TkZPM05QeFY0b09kTRI/CjdodHRwOi8vcGlhenphLmNvbS9pbWFnZXMvc3BsYXNoL1BhZ2VUb3AvUGlhenphLUljb24ucG5nEKABGKABGmMKW2h0dHA6Ly90MC5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjU1lwb0hsTTBHVkFzTEZ0amV6UHFIUlZNTXBhZFBHS3hYVnV1ZFZvVG8tTTFxX01wMWQQoAEYoAEiEAgBEKABGKABQgYSBInbfv8o1rOCqOTOxQI=",
+                  "stars.isSynced": "true",
+                  "stars.pageData": "Er4BV2l0aCBQaWF6emEsIGVhc2lseSBhbnN3ZXIgcXVlc3Rpb25zLCBtYW5hZ2UgY291cnNlIG1hdGVyaWFscywgYW5kIHRyYWNrIHN0dWRlbnQgcGFydGljaXBhdGlvbi4gSXQnbGwgc2F2ZSB5b3UgdGltZSwgYW5kIHlvdXIgc3R1ZGVudHMgd2lsbCBsb3ZlIHVzaW5nIGl0LiBJdCdzIGZyZWUsIGFuZCBlYXN5IHRvIGdldCBzdGFydGVkLiIOR2tqSTFXdEdvZjBZSk0="
+               },
+               "name": "Piazza - CS 2112",
+               "type": "url",
+               "url": "https://piazza.com/class/hy0ymdr45wp5tg"
+            }, {
+               "date_added": "13056737737879043",
+               "id": "39",
+               "meta_info": {
+                  "stars.id": "ssc_9385f9c5fb1ae819",
+                  "stars.isSynced": "true"
+               },
+               "name": "devinhaber/CS2112A4",
+               "sync_transaction_version": "18",
+               "type": "url",
+               "url": "https://github.com/devinhaber/CS2112A4"
+            } ],
+            "date_added": "13054597857955722",
+            "date_modified": "13105300209320159",
+            "id": "31",
+            "meta_info": {
+               "stars.id": "ssf_4f49fe94839588c4",
+               "stars.isPublic": "false",
+               "stars.isSynced": "true"
+            },
+            "name": "Cornell",
+            "type": "folder"
+         }, {
+            "date_added": "13074274472861000",
+            "id": "32",
+            "meta_info": {
+               "stars.id": "c_fdsli8uaiu7y",
+               "stars.imageData": "Cg5TUE1lVWZBQk9scWMtTRJVCk1odHRwOi8vY2RuLmNhcmxjaGVvLmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAxNS8wNC9jaXJjdWl0LWJvYXJkLTEwMjR4NTM4LmpwZxCACBiaBBpjCltodHRwOi8vdDAuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1FWemJ1VEI4M0NJSmo0c3Y4eko0VVhPR2J2WVprUFhvSnhxT2Z3V2xJb3RfeExRN0FLELYCGKMBIh8IARC2AhijASCbXkIGEgQAAVlcSgppbWFnZS9qcGVn",
+               "stars.isSynced": "true",
+               "stars.note": "",
+               "stars.pageData": "EmZDb21wdXRlciBzY2llbmNlIHN1bW1hcml6ZWQgaW4gYW4gYXJ0aWNsZS4gRm9yIGV2ZXJ5b25lLiBDb250YWlucyBtaW5pbWFsIHRlY2huaWNhbCB0ZXJtcyBhbmQgamFyZ29ucy4iDm1BZFhMVmdfQWN5VzJN",
+               "stars.type": "2"
+            },
+            "name": "40 Key Computer Science Concepts Explained In Layman’s Terms",
+            "sync_transaction_version": "11",
+            "type": "url",
+            "url": "http://carlcheo.com/compsci"
+         }, {
+            "date_added": "13074827156637000",
+            "id": "33",
+            "meta_info": {
+               "stars.id": "c_1luui93fkrqu",
+               "stars.isSynced": "true",
+               "stars.note": "",
+               "stars.pageData": "Ig5IOFRXTS1PRmxIQy1BTQ==",
+               "stars.type": "2"
+            },
+            "name": "http://www.pixelthoughts.co/",
+            "type": "url",
+            "url": "http://www.pixelthoughts.co/"
+         }, {
+            "date_added": "13080068046178381",
+            "id": "94",
+            "meta_info": {
+               "stars.id": "ssc_f0423cc2cdf4108f",
+               "stars.isSynced": "true"
+            },
+            "name": "Paul Ford: What is Code? | Bloomberg",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/"
+         }, {
+            "date_added": "13080535547698010",
+            "id": "93",
+            "meta_info": {
+               "stars.id": "ssc_284c3338f913259e",
+               "stars.isSynced": "true"
+            },
+            "name": "24 Delicious DIY Sauces You'll Want To Put On Everything - StumbleUpon",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "http://www.stumbleupon.com/convo/-JsO89eVe6SFOpDqgXUN/-JsO89aOTnGmejvSOdH2"
+         }, {
+            "date_added": "13080782122114125",
+            "id": "95",
+            "meta_info": {
+               "stars.id": "ssc_2da09005b4dd11c6",
+               "stars.isSynced": "true"
+            },
+            "name": "7 Rules for Creating Gorgeous UI (Part 1) — Medium",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda"
+         }, {
+            "date_added": "13076433581429000",
+            "id": "90",
+            "meta_info": {
+               "stars.id": "ssc_e77e1387585e5f4b",
+               "stars.imageData": "Cg5VajNjdUppbDFIbkNXTRJKCkJodHRwOi8vbWFrZXJib29rLm5ldC93cC1jb250ZW50L3VwbG9hZHMvTWFrZXJib29rX3NvY2lhbF9tZWRpYS5naWYQoAYY2QMaYwpbaHR0cDovL3QyLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NRRWVlYUxZY08yaTdzR3lJeDlqQ2RiZXBtRm9vYmd6YTRqYTVROFNZVlZ5bWhoQXVXaBCkAhitASIeCAEQpAIYrQEgyxZCBhIEtv1/f0oJaW1hZ2UvcG5n",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5hVHVDNHJpMjhmYWltTQ==",
+               "stars.type": "2"
+            },
+            "name": "Makerbook",
+            "sync_transaction_version": "12",
+            "type": "url",
+            "url": "http://makerbook.net/"
+         } ],
+         "date_added": "13075706593352179",
+         "date_modified": "13083529413660666",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "95",
+      "synced": {
+         "children": [ {
+            "date_added": "13076305653000000",
+            "id": "87",
+            "meta_info": {
+               "stars.id": "ssc_ca435a9baf846832",
+               "stars.imageData": "Cg5wVV8xOUp4NmJJU2dSTRJPCkdodHRwOi8vemFsZXMuaW1hZ2VnLm5ldC9ncmFwaGljcy9wcm9kdWN0X2ltYWdlcy9wWkFMRTEtMTk4NzYyODV0NDAwLmpwZxDhARjhARpjCltodHRwOi8vdDEuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1NkVzc2NS1KWnFBMDhVYlVjbUFndEgyMm5TVjJOQjBEYnhTNW9lOTdpSnRkYXpyMFVuEOEBGOEBIhAIARDhARjhAUIGEgSR55b/KOng9t/2v84C",
+               "stars.isSynced": "true",
+               "stars.pageData": "EmZWZXJhIFdhbmcgTE9WRSBDb2xsZWN0aW9uIDEtMS80IENULiBULlcuIERpYW1vbmQgRnJhbWUgVmludGFnZS1TdHlsZSBFbmdhZ2VtZW50IFJpbmcgaW4gMTRLIFdoaXRlIEdvbGQiDmNzWERrQU4wcWVzYnlN",
+               "stars.type": "2"
+            },
+            "name": "Vera Wang LOVE Collection 1-1/4 CT. T.W. Diamond Frame Vintage-Style Engagement Ring in 14K White Gold - View All Rings - Zales",
+            "sync_transaction_version": "11",
+            "type": "url",
+            "url": "http://www.zales.com/vera-wang-love-collection-diamond-frame-vintage-style-engagement-ring-14k-white-gold/product.jsp?productId=51157356"
+         }, {
+            "date_added": "13074790039740984",
+            "id": "6",
+            "meta_info": {
+               "stars.id": "ssc_79e4a6c17787088f",
+               "stars.isSynced": "true"
+            },
+            "name": "Mafia CU",
+            "type": "url",
+            "url": "http://mafia-game.meteor.com/"
+         }, {
+            "date_added": "13025910646427000",
+            "id": "7",
+            "meta_info": {
+               "stars.id": "ssc_ffc24fa717dfa2c5",
+               "stars.imageData": "EjoKM2h0dHA6Ly93d3cub25jb3Vyc2VzeXN0ZW1zLmNvbS9jb250ZW50L2ltZy9sb2dvLnN2ZxD6ARg7",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig52eDJISnZrZjBtVVRRTQ==",
+               "stars.type": "2"
+            },
+            "name": "Teacher Websites",
+            "sync_transaction_version": "11",
+            "type": "url",
+            "url": "http://www.oncoursesystems.com/school/menu.aspx?id=13590"
+         }, {
+            "date_added": "13025674290092597",
+            "id": "8",
+            "meta_info": {
+               "stars.id": "ssc_9c1288f44b7d4291",
+               "stars.imageData": "Cg51Tm9rVk1aaVJsZ2N0TRJlCl1odHRwOi8vd3d3Lmdvb2dsZS5jb20vbG9nb3MvZG9vZGxlcy8yMDE0L2Nvcml0YS1rZW50cy05NnRoLWJpcnRoZGF5LTU3MDQ2NjEyNjg5NTUxMzYuMi1ocC5qcGcQ1wMYtAEaYwpbaHR0cDovL3QwLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUbkFnTWJFUzdxWG1pR1FBdUNTa0owbU5PRzNtMWFZeUVyTzkzMXBjQ19lNTFLRy1JXxDrAhiLASIQCAEQ6wIYiwFCBhIEgCQAACib2uLL7bnMAg==",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig56aG9vbDhkeEJWNGtvTQ==",
+               "stars.type": "2"
+            },
+            "name": "Google",
+            "sync_transaction_version": "53",
+            "type": "url",
+            "url": "https://www.google.com/"
+         }, {
+            "date_added": "13038782768502000",
+            "id": "9",
+            "meta_info": {
+               "stars.id": "ssc_0e4996fe13a04f19",
+               "stars.imageData": "Cg51Tm9rVk1aaVJsZ2N0TRJlCl1odHRwOi8vd3d3Lmdvb2dsZS5jb20vbG9nb3MvZG9vZGxlcy8yMDE0L2Nvcml0YS1rZW50cy05NnRoLWJpcnRoZGF5LTU3MDQ2NjEyNjg5NTUxMzYuMi1ocC5qcGcQ1wMYtAEaYwpbaHR0cDovL3QwLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NUbkFnTWJFUzdxWG1pR1FBdUNTa0owbU5PRzNtMWFZeUVyTzkzMXBjQ19lNTFLRy1JXxDrAhiLASIQCAEQ6wIYiwFCBhIEgCQAACithKrjv8bMAg==",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig56aG9vbDhkeEJWNGtvTQ==",
+               "stars.type": "2"
+            },
+            "name": "Google",
+            "sync_transaction_version": "75",
+            "type": "url",
+            "url": "http://www.google.com/"
+         }, {
+            "date_added": "12982208486100439",
+            "id": "10",
+            "meta_info": {
+               "stars.flags": "6",
+               "stars.id": "ssc_32d9d716aa0802f1",
+               "stars.imageData": "Cg5EVjQ5dWdteVBnSUhWTRI9CjVodHRwczovL3d3dy5hcHBsZS5jb20vaG9tZS9pbWFnZXMvb2cuanBnPzIwMTQxMDI3MTAwNBDhARjhARpjCltodHRwOi8vdDEuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1JrdU1oTFh0V2MtSmNCTnBBRXRYdzFxc3hncXRHMUo4eU5FWjlFNDVSdjQyZXN0dGZVEOEBGOEBIhAIARDhARjhAUIGEgS//3//KPa6kebm0cUC",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig54RUVMSnZkT0RzdzI1TQ=="
+            },
+            "name": "Apple",
+            "type": "url",
+            "url": "http://www.apple.com/"
+         }, {
+            "date_added": "12992833794935813",
+            "id": "11",
+            "meta_info": {
+               "stars.id": "ssc_d9d1981614f86b37",
+               "stars.isSynced": "true",
+               "stars.pageData": "Ig5XNktHU2tZQjZfWndITQ=="
+            },
+            "name": "YouTube",
+            "type": "url",
+            "url": "http://m.youtube.com/my_subscriptions"
+         }, {
+            "date_added": "13033365390911819",
+            "id": "12",
+            "meta_info": {
+               "stars.flags": "6",
+               "stars.id": "ssc_9d997fca5d665123",
+               "stars.imageData": "Cg5McXZIVzA0M2NTYlc0TRItCiZodHRwOi8vd3d3LmFwbm90ZXMubmV0L2ltYWdlcy9oZWFkLmdpZhCuAxhhGmIKW2h0dHA6Ly90Mi5nc3RhdGljLmNvbS9pbWFnZXM/cT10Ym46QU5kOUdjUlhpOGpQa0JmUm92X1dyWmI5TEE0SHBuUXNaRzJFVS1ZVUNmMTlfdXFSWEc5YWNVY2wQ2AIYTSIPCAEQ2AIYTUIGEgSASAAAKIbt38CbzcUC",
+               "stars.isSynced": "true",
+               "stars.pageData": "EjJZb3VyIG9ubHkgc291cmNlIGZvciBxdWFsaXR5IEFQIFUuUy4gSGlzdG9yeSBub3RlcyIONmE0VXFWeG1CaTZuVE0="
+            },
+            "name": "AP US II Outlines",
+            "type": "url",
+            "url": "http://www.apnotes.net/ap.html"
+         }, {
+            "children": [  ],
+            "date_added": "13085421135191246",
+            "date_modified": "13085423080036874",
+            "id": "98",
+            "meta_info": {
+               "stars.id": "ssf_1163f8baff674720",
+               "stars.isSynced": "true"
+            },
+            "name": "Schook",
+            "sync_transaction_version": "24",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13085421200013200",
+               "id": "100",
+               "meta_info": {
+                  "stars.id": "ssc_0b1f9a3f881c59fa",
+                  "stars.isSynced": "true"
+               },
+               "name": "Just Manic Enough: Seeking Perfect Entrepreneurs - NYTimes.com",
+               "sync_transaction_version": "24",
+               "type": "url",
+               "url": "http://mobile.nytimes.com/2010/09/19/business/19entre.html?pagewanted=all&referrer=&_r=0"
+            } ],
+            "date_added": "13085421198380854",
+            "date_modified": "13085423080036919",
+            "id": "99",
+            "meta_info": {
+               "stars.id": "ssf_52f6e0304c904214",
+               "stars.isSynced": "true"
+            },
+            "name": "School",
+            "sync_transaction_version": "24",
+            "type": "folder"
+         }, {
+            "date_added": "13094491236357726",
+            "id": "103",
+            "name": "Ionic Documentation - Ionic Framework",
+            "sync_transaction_version": "60",
+            "type": "url",
+            "url": "http://ionicframework.com/docs/"
+         } ],
+         "date_added": "13075706593352181",
+         "date_modified": "13097965231991737",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,18 @@
+2016/03/05-20:52:28.128 4127 Reusing MANIFEST /home/harry/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2016/03/05-20:52:28.128 4127 Recovering log #72
+2016/03/05-20:52:28.159 4127 Reusing old log /home/harry/.config/google-chrome/Profile 1/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000072.log 
+2016/03/05-20:52:31.967 4127 Current memtable full; waiting...
+2016/03/05-20:52:31.967 4856 Level-0 table #77: started
+2016/03/05-20:52:32.086 4856 Level-0 table #77: 3263711 bytes OK
+2016/03/05-20:52:32.101 4856 Delete type=0 #72
+2016/03/05-20:52:32.103 4856 Level-0 table #79: started
+2016/03/05-20:52:32.103 4856 Level-0 table #79: 0 bytes OK
+2016/03/05-20:52:32.108 4856 Delete type=0 #76
+2016/03/05-20:52:32.109 4856 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 824 : 1
+2016/03/05-20:52:32.109 4856 Compacting 1@0 + 1@1 files
+2016/03/05-20:52:32.157 4856 Generated table #80: 12 keys, 595396 bytes
+2016/03/05-20:52:32.158 4856 Compacted 1@0 + 1@1 files => 595396 bytes
+2016/03/05-20:52:32.168 4856 compacted to: files[ 0 1 1 0 0 0 0 ]
+2016/03/05-20:52:32.169 4856 Delete type=2 #74
+2016/03/05-20:52:32.169 4856 Delete type=2 #77
+2016/03/05-20:52:32.173 4856 Manual compaction at level-0 from '\x00\x0e\x00\x00\x05' @ 824 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,11 @@
+# ~/.tmuxinator/basic.yml
+
+name: basic
+root: .
+
+windows:
+  - editor:
+      layout: b3a2,144x31,0,0{84x31,0,0,0,59x31,85,0,1}
+      panes:
+        - 'vi .'
+        - ''

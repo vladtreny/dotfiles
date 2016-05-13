@@ -1,0 +1,1226 @@
+{
+	"folder_history":
+	[
+		"/home/harry/Projects/new-resume",
+		"/home/harry/Projects/foodie",
+		"/home/harry/Projects/responsive-devices",
+		"/home/harry/Projects/MafiaCU",
+		"/home/harry/Projects/XenaCard",
+		"/home/harry/Projects/TimanUI",
+		"/home/harry/Tests/recipe",
+		"/home/harry/Projects/GriffinBrodman.github.io/ddblog",
+		"/home/harry/Projects/griff-ddblog",
+		"/home/harry/Projects/meteor-sample",
+		"/home/harry/Tests/meteor-test",
+		"/home/harry/Tests/portfolio",
+		"/home/harry/Tests/samples",
+		"/home/harry/Tests/simple-web",
+		"/home/harry/Tests/website"
+	],
+	"last_version": 3083,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1697.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bros",
+						"browserSync"
+					],
+					[
+						"br",
+						"browser-sync"
+					],
+					[
+						"brow",
+						"browserSync"
+					],
+					[
+						"amount",
+						"amount-input"
+					],
+					[
+						"ing",
+						"ingreds"
+					],
+					[
+						"ingredei",
+						"ingredient-input"
+					],
+					[
+						"trans",
+						"translateX"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"pos",
+						"pos	position"
+					],
+					[
+						"import",
+						"important"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"ro",
+						"rotateY"
+					],
+					[
+						"vs",
+						"visible"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"cur",
+						"cur:p	cursor:pointer"
+					],
+					[
+						"list",
+						"list:s	list-style-type:square"
+					],
+					[
+						"fonts",
+						"font-style"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"in",
+						"ingredients"
+					],
+					[
+						"ingredient",
+						"ingredientsList"
+					],
+					[
+						"font-",
+						"font-weight"
+					],
+					[
+						"margn",
+						"margin-left"
+					],
+					[
+						"spacing",
+						"letter-spacing"
+					],
+					[
+						"margi",
+						"margin"
+					],
+					[
+						"rec",
+						"recipe_hash"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"fo",
+						"font-style"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"textal",
+						"text-align"
+					],
+					[
+						"pso",
+						"pos:r	position:relative"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"align",
+						"align-self"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"uppr",
+						"uppercase"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"uppera",
+						"uppercase"
+					],
+					[
+						"text-r",
+						"text-transform"
+					],
+					[
+						"text-stroke",
+						"webkit-text-stroke"
+					],
+					[
+						"color",
+						"color-3"
+					],
+					[
+						"pro",
+						"proj-icons"
+					],
+					[
+						"po",
+						"position"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 784.0,
+				"last_filter": "color",
+				"selected_items":
+				[
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"lore",
+						"LoremIpsum: (200) stick shake"
+					],
+					[
+						"h",
+						"HTMLBeautify"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"lorem",
+						"LoremIpsum: (30) lots"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"l",
+						"Set Syntax: Lisp"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"coffee",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"jade",
+						"Set Syntax: Jade"
+					],
+					[
+						"snhtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ajde",
+						"Set Syntax: Jade"
+					],
+					[
+						"ins",
+						"Permute Lines: Shuffle"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 898.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/harry/Downloads/Cytoscape_3_2_1_unix.sh",
+				"/home/harry/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/harry/Projects/new-resume/index.jade",
+				"/home/harry/Projects/new-resume/gulpfile.js",
+				"/home/harry/Projects/new-resume/main.sass",
+				"/home/harry/Projects/new-resume/index.html",
+				"/home/harry/Projects/new-resume/resume.jade",
+				"/home/harry/Projects/new-resume/_latex.scss",
+				"/home/harry/Projects/hgoldstein95.github.io/sass/_config.scss",
+				"/home/harry/Projects/hgoldstein95.github.io/sass/_resume_rules.scss",
+				"/home/harry/Projects/new-resume/resume.html",
+				"/home/harry/Projects/new-resume/style.scss",
+				"/home/harry/Projects/new-resume/README.md",
+				"/home/harry/Projects/foodie/client/js/templates/recipes.js",
+				"/home/harry/Projects/foodie/client/templates/newRecipe.tpl.jade",
+				"/home/harry/Projects/foodie/client/sass/templates/_newRecipe.sass",
+				"/home/harry/Projects/foodie/client/templates/recipes.tpl.jade",
+				"/home/harry/Projects/foodie/client/js/client.js",
+				"/home/harry/Projects/foodie/client/sass/templates/_home.sass",
+				"/home/harry/Projects/foodie/routes.js",
+				"/home/harry/Projects/foodie/client/sass/util/_base.sass",
+				"/home/harry/Projects/foodie/client/js/templates/newRecipe.js",
+				"/home/harry/Projects/foodie/client/sass/index.sass",
+				"/home/harry/Projects/foodie/client/templates/ingredientInput.tpl.jade",
+				"/home/harry/Projects/foodie/client/sass/templates/_ingredientInput.sass",
+				"/home/harry/Projects/foodie/client/templates/ingredient-input.tpl.jade",
+				"/home/harry/Projects/foodie/client/sass/templates/_new-recipe.sass",
+				"/home/harry/Projects/XenaCard/script.js",
+				"/home/harry/Projects/XenaCard/sass/index.sass",
+				"/home/harry/Projects/XenaCard/index.jade",
+				"/home/harry/Projects/TimanUI/index.html",
+				"/home/harry/Projects/TimanUI/sass/util/_vars.sass",
+				"/home/harry/Projects/TimanUI/sass/index.sass",
+				"/home/harry/Projects/TimanUI/sass/util/_base.sass",
+				"/home/harry/Projects/TimanUI/sass/layout/_main.sass",
+				"/home/harry/Projects/GriffinBrodman.github.io/ddblog/categories/encounters/index.html",
+				"/home/harry/Projects/GriffinBrodman.github.io/ddblog/index.html",
+				"/home/harry/Projects/GriffinBrodman.github.io/ddblog/_layouts/encounter.html",
+				"/home/harry/Projects/GriffinBrodman.github.io/ddblog/_posts/2015-05-23-test-encounter.markdown",
+				"/home/harry/Projects/GriffinBrodman.github.io/ddblog/_layouts/default.html",
+				"/home/harry/Projects/GriffinBrodman.github.io/ddblog/_layouts/post.html",
+				"/home/harry/Tests/recipe/recipes.json",
+				"/home/harry/Projects/griff-ddblog/index.html",
+				"/home/harry/Projects/griff-ddblog/_posts/2015-05-24-second-post.markdown",
+				"/home/harry/Projects/griff-ddblog/_posts/2015-05-23-first-post.markdown",
+				"/home/harry/Projects/griff-ddblog/_layouts/default.html",
+				"/home/harry/Projects/griff-ddblog/encounters/index.html",
+				"/home/harry/Projects/griff-ddblog/_layouts/encounter.html",
+				"/home/harry/Projects/griff-ddblog/encounters.html",
+				"/home/harry/Projects/griff-ddblog/_layouts/post.html",
+				"/home/harry/Projects/griff-ddblog/_posts/2015-05-23-test-encounter.markdown",
+				"/home/harry/Projects/griff-ddblog/characters.html",
+				"/home/harry/Projects/griff-ddblog/encounter.html",
+				"/home/harry/Projects/griff-ddblog/stories.html",
+				"/home/harry/Projects/griff-ddblog/monsters.html",
+				"/home/harry/Projects/griff-ddblog/guides.html",
+				"/home/harry/Projects/griff-ddblog/contact.html",
+				"/home/harry/Projects/griff-ddblog/encounter1.html",
+				"/home/harry/Projects/griff-ddblog/_posts/2015-05-24-first-post.markdown",
+				"/home/harry/Tests/portfolio/_config.yml",
+				"/home/harry/Projects/foodie/client/sass/templates/_recipes.sass",
+				"/home/harry/Projects/foodie/client/templates/home.tpl.jade",
+				"/home/harry/Projects/foodie/client/js/templates/home.js",
+				"/home/harry/Projects/foodie/client/index.jade",
+				"/home/harry/Projects/foodie/client/sass/util/_vars.sass",
+				"/home/harry/Projects/meteor-sample/client/templates/layout.tpl.jade",
+				"/home/harry/Projects/meteor-sample/client/sass/templates/_nav.sass",
+				"/home/harry/Projects/meteor-sample/client/templates/nav.tpl.jade",
+				"/home/harry/Projects/meteor-sample/client/sass/util/_base.sass",
+				"/home/harry/Projects/meteor-sample/client/sass/index.sass",
+				"/home/harry/Projects/meteor-sample/client/templates/home.tpl.jade",
+				"/home/harry/Projects/meteor-sample/client/sass/util/_vars.sass",
+				"/home/harry/Tests/meteor-test/client/sass/index.sass",
+				"/home/harry/Tests/meteor-test/client/sass/_home.sass",
+				"/home/harry/Tests/meteor-test/client/templates/home.tpl.jade",
+				"/home/harry/Tests/meteor-test/client/index.jade",
+				"/home/harry/Tests/meteor-test/client/sass/home.sass",
+				"/home/harry/Tests/meteor-test/routes.js",
+				"/home/harry/Tests/meteor-test/client/home.tpl.jade",
+				"/home/harry/Tests/meteor-test/client/layout.tmpl.jade",
+				"/home/harry/Tests/meteor-test/client/layout.jade",
+				"/home/harry/Tests/samples/_nav.sass",
+				"/home/harry/Tests/samples/index.sass",
+				"/home/harry/Tests/samples/nav.jade",
+				"/home/harry/Tests/samples/index.jade",
+				"/home/harry/Tests/portfolio/_sass/layout/_header.sass",
+				"/home/harry/Tests/portfolio/_sass/layout/_skills.sass",
+				"/home/harry/Tests/portfolio/_sass/layout/_links.sass",
+				"/home/harry/Tests/portfolio/css/main.sass",
+				"/home/harry/Tests/portfolio/_sass/util/_base.sass",
+				"/home/harry/Tests/portfolio/_sass/util/_vars.sass",
+				"/home/harry/Tests/portfolio/_sass/layout/_nav.sass",
+				"/home/harry/Tests/portfolio/_sass/layout/_projects.sass",
+				"/home/harry/Tests/portfolio/_sass/layout/_footer.sass",
+				"/home/harry/Tests/portfolio/skill-content.jade",
+				"/home/harry/Tests/portfolio/index.jade",
+				"/home/harry/Tests/portfolio/_includes/header.jade",
+				"/home/harry/Tests/portfolio/_includes",
+				"/home/harry/Tests/portfolio/js/script.js",
+				"/home/harry/Tests/portfolio/_sass/_icons.scss",
+				"/home/harry/Tests/portfolio/_sass/_base.sass",
+				"/home/harry/Tests/portfolio/_sass/_vars.sass",
+				"/home/harry/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/harry/.config/sublime-text-3/Packages/Browser Refresh/Default (Linux).sublime-keymap",
+				"/home/harry/Tests/portfolio/js/script.coffee",
+				"/home/harry/Tests/portfolio/_sass/_placeholders.sass",
+				"/home/harry/Tests/portfolio/_sass/main.sass",
+				"/home/harry/Tests/portfolio/_sass/_normalize.scss",
+				"/home/harry/Tests/portfolio/index.html",
+				"/home/harry/Tests/portfolio/_sass/_layout.sass",
+				"/home/harry/Tests/portfolio/sass/main.sass",
+				"/home/harry/Tests/website/sass/_mixins.sass",
+				"/home/harry/Tests/website/css/main.css"
+			],
+			"find":
+			{
+				"height": 67.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"$color-5",
+					"$color-4",
+					"$color-3",
+					"$color-2",
+					"color-1",
+					"h1",
+					"br",
+					"Pursuing",
+					"|",
+					"text",
+					"label",
+					"import",
+					"for=\"\"",
+					"0",
+					"Goldstein",
+					"white",
+					"10px",
+					"src",
+					"(",
+					"5",
+					"400px",
+					"6",
+					"600",
+					"180",
+					"rotateY",
+					"-webkit-",
+					"{",
+					"}",
+					";",
+					"/categories",
+					"div",
+					":",
+					"</span>",
+					"href=\"/",
+					"/",
+					".html",
+					"content",
+					"'",
+					" </p>",
+					"This",
+					"<p>",
+					"title",
+					"\">\n",
+					">\n",
+					"media",
+					"h2 Ingredients\n		ul\n			li Chocolate Chips\n			li Flour\n			li Other Things\n		h2 Directions\n		p Lorem ipsum Officia velit est ",
+					"min",
+					"import",
+					"a.",
+					"a",
+					"contain",
+					"cover",
+					"100% 100%",
+					"2",
+					"255",
+					"img",
+					"card",
+					"black",
+					"section",
+					"Buddy",
+					"#",
+					"5",
+					"4",
+					"header",
+					"0",
+					"white",
+					"background: gray",
+					"&:hover::after",
+					"708090",
+					"%",
+					"708090",
+					"69%",
+					"67%",
+					"24%",
+					"22%",
+					"%",
+					"% ",
+					"22",
+					"%",
+					"px",
+					"color-2",
+					"black",
+					"+",
+					"linear",
+					"px",
+					"transparent",
+					"linear",
+					"transparent",
+					"linear",
+					"gray",
+					"rgba(255,255,255,.8)",
+					" 0px",
+					"0px"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 51.0
+			},
+			"input":
+			{
+				"height": 55.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 98.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 309.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1598.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"bros",
+						"browserSync"
+					],
+					[
+						"br",
+						"browser-sync"
+					],
+					[
+						"brow",
+						"browserSync"
+					],
+					[
+						"amount",
+						"amount-input"
+					],
+					[
+						"ing",
+						"ingreds"
+					],
+					[
+						"ingredei",
+						"ingredient-input"
+					],
+					[
+						"trans",
+						"translateX"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"pos",
+						"pos	position"
+					],
+					[
+						"import",
+						"important"
+					],
+					[
+						"back",
+						"background"
+					],
+					[
+						"ro",
+						"rotateY"
+					],
+					[
+						"vs",
+						"visible"
+					],
+					[
+						"mar",
+						"margin"
+					],
+					[
+						"cur",
+						"cur:p	cursor:pointer"
+					],
+					[
+						"list",
+						"list:s	list-style-type:square"
+					],
+					[
+						"fonts",
+						"font-style"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"in",
+						"ingredients"
+					],
+					[
+						"ingredient",
+						"ingredientsList"
+					],
+					[
+						"font-",
+						"font-weight"
+					],
+					[
+						"margn",
+						"margin-left"
+					],
+					[
+						"spacing",
+						"letter-spacing"
+					],
+					[
+						"margi",
+						"margin"
+					],
+					[
+						"rec",
+						"recipe_hash"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"fo",
+						"font-style"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"textal",
+						"text-align"
+					],
+					[
+						"pso",
+						"pos:r	position:relative"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"align",
+						"align-self"
+					],
+					[
+						"wid",
+						"width"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"uppr",
+						"uppercase"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"uppera",
+						"uppercase"
+					],
+					[
+						"text-r",
+						"text-transform"
+					],
+					[
+						"text-stroke",
+						"webkit-text-stroke"
+					],
+					[
+						"color",
+						"color-3"
+					],
+					[
+						"pro",
+						"proj-icons"
+					],
+					[
+						"po",
+						"position"
+					]
+				]
+			},
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 784.0,
+				"last_filter": "color",
+				"selected_items":
+				[
+					[
+						"color",
+						"Color Picker"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"lore",
+						"LoremIpsum: (200) stick shake"
+					],
+					[
+						"h",
+						"HTMLBeautify"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"lorem",
+						"LoremIpsum: (30) lots"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"l",
+						"Set Syntax: Lisp"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"coffee",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"jade",
+						"Set Syntax: Jade"
+					],
+					[
+						"snhtml",
+						"Set Syntax: HTML"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"ajde",
+						"Set Syntax: Jade"
+					],
+					[
+						"ins",
+						"Permute Lines: Shuffle"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 898.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/harry/Downloads/Cytoscape_3_2_1_unix.sh",
+				"/home/harry/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/harry/Projects/new-resume/index.jade",
+				"/home/harry/Projects/new-resume/gulpfile.js",
+				"/home/harry/Projects/new-resume/main.sass",
+				"/home/harry/Projects/new-resume/index.html",
+				"/home/harry/Projects/new-resume/resume.jade",
+				"/home/harry/Projects/new-resume/_latex.scss",
+				"/home/harry/Projects/hgoldstein95.github.io/sass/_config.scss",
+				"/home/harry/Projects/hgoldstein95.github.io/sass/_resume_rules.scss",
+				"/home/harry/Projects/new-resume/resume.html",
+				"/home/harry/Projects/new-resume/style.scss",
+				"/home/harry/Projects/new-resume/README.md",
+				"/home/harry/Projects/foodie/client/js/templates/recipes.js",
+				"/home/harry/Projects/foodie/client/templates/newRecipe.tpl.jade",
+				"/home/harry/Projects/foodie/client/sass/templates/_newRecipe.sass",
+				"/home/harry/Projects/foodie/client/templates/recipes.tpl.jade",
+				"/home/harry/Projects/foodie/client/js/client.js",
+				"/home/harry/Projects/foodie/client/sass/templates/_home.sass",
+				"/home/harry/Projects/foodie/routes.js",
+				"/home/harry/Projects/foodie/client/sass/util/_base.sass",
+				"/home/harry/Projects/foodie/client/js/templates/newRecipe.js",
+				"/home/harry/Projects/foodie/client/sass/index.sass",
+				"/home/harry/Projects/foodie/client/templates/ingredientInput.tpl.jade",
+				"/home/harry/Projects/foodie/client/sass/templates/_ingredientInput.sass",
+				"/home/harry/Projects/foodie/client/templates/ingredient-input.tpl.jade",
+				"/home/harry/Projects/foodie/client/sass/templates/_new-recipe.sass",
+				"/home/harry/Projects/XenaCard/script.js",
+				"/home/harry/Projects/XenaCard/sass/index.sass",
+				"/home/harry/Projects/XenaCard/index.jade",
+				"/home/harry/Projects/TimanUI/index.html",
+				"/home/harry/Projects/TimanUI/sass/util/_vars.sass",
+				"/home/harry/Projects/TimanUI/sass/index.sass",
+				"/home/harry/Projects/TimanUI/sass/util/_base.sass",
+				"/home/harry/Projects/TimanUI/sass/layout/_main.sass",
+				"/home/harry/Projects/GriffinBrodman.github.io/ddblog/categories/encounters/index.html",
+				"/home/harry/Projects/GriffinBrodman.github.io/ddblog/index.html",
+				"/home/harry/Projects/GriffinBrodman.github.io/ddblog/_layouts/encounter.html",
+				"/home/harry/Projects/GriffinBrodman.github.io/ddblog/_posts/2015-05-23-test-encounter.markdown",
+				"/home/harry/Projects/GriffinBrodman.github.io/ddblog/_layouts/default.html",
+				"/home/harry/Projects/GriffinBrodman.github.io/ddblog/_layouts/post.html",
+				"/home/harry/Tests/recipe/recipes.json",
+				"/home/harry/Projects/griff-ddblog/index.html",
+				"/home/harry/Projects/griff-ddblog/_posts/2015-05-24-second-post.markdown",
+				"/home/harry/Projects/griff-ddblog/_posts/2015-05-23-first-post.markdown",
+				"/home/harry/Projects/griff-ddblog/_layouts/default.html",
+				"/home/harry/Projects/griff-ddblog/encounters/index.html",
+				"/home/harry/Projects/griff-ddblog/_layouts/encounter.html",
+				"/home/harry/Projects/griff-ddblog/encounters.html",
+				"/home/harry/Projects/griff-ddblog/_layouts/post.html",
+				"/home/harry/Projects/griff-ddblog/_posts/2015-05-23-test-encounter.markdown",
+				"/home/harry/Projects/griff-ddblog/characters.html",
+				"/home/harry/Projects/griff-ddblog/encounter.html",
+				"/home/harry/Projects/griff-ddblog/stories.html",
+				"/home/harry/Projects/griff-ddblog/monsters.html",
+				"/home/harry/Projects/griff-ddblog/guides.html",
+				"/home/harry/Projects/griff-ddblog/contact.html",
+				"/home/harry/Projects/griff-ddblog/encounter1.html",
+				"/home/harry/Projects/griff-ddblog/_posts/2015-05-24-first-post.markdown",
+				"/home/harry/Tests/portfolio/_config.yml",
+				"/home/harry/Projects/foodie/client/sass/templates/_recipes.sass",
+				"/home/harry/Projects/foodie/client/templates/home.tpl.jade",
+				"/home/harry/Projects/foodie/client/js/templates/home.js",
+				"/home/harry/Projects/foodie/client/index.jade",
+				"/home/harry/Projects/foodie/client/sass/util/_vars.sass",
+				"/home/harry/Projects/meteor-sample/client/templates/layout.tpl.jade",
+				"/home/harry/Projects/meteor-sample/client/sass/templates/_nav.sass",
+				"/home/harry/Projects/meteor-sample/client/templates/nav.tpl.jade",
+				"/home/harry/Projects/meteor-sample/client/sass/util/_base.sass",
+				"/home/harry/Projects/meteor-sample/client/sass/index.sass",
+				"/home/harry/Projects/meteor-sample/client/templates/home.tpl.jade",
+				"/home/harry/Projects/meteor-sample/client/sass/util/_vars.sass",
+				"/home/harry/Tests/meteor-test/client/sass/index.sass",
+				"/home/harry/Tests/meteor-test/client/sass/_home.sass",
+				"/home/harry/Tests/meteor-test/client/templates/home.tpl.jade",
+				"/home/harry/Tests/meteor-test/client/index.jade",
+				"/home/harry/Tests/meteor-test/client/sass/home.sass",
+				"/home/harry/Tests/meteor-test/routes.js",
+				"/home/harry/Tests/meteor-test/client/home.tpl.jade",
+				"/home/harry/Tests/meteor-test/client/layout.tmpl.jade",
+				"/home/harry/Tests/meteor-test/client/layout.jade",
+				"/home/harry/Tests/samples/_nav.sass",
+				"/home/harry/Tests/samples/index.sass",
+				"/home/harry/Tests/samples/nav.jade",
+				"/home/harry/Tests/samples/index.jade",
+				"/home/harry/Tests/portfolio/_sass/layout/_header.sass",
+				"/home/harry/Tests/portfolio/_sass/layout/_skills.sass",
+				"/home/harry/Tests/portfolio/_sass/layout/_links.sass",
+				"/home/harry/Tests/portfolio/css/main.sass",
+				"/home/harry/Tests/portfolio/_sass/util/_base.sass",
+				"/home/harry/Tests/portfolio/_sass/util/_vars.sass",
+				"/home/harry/Tests/portfolio/_sass/layout/_nav.sass",
+				"/home/harry/Tests/portfolio/_sass/layout/_projects.sass",
+				"/home/harry/Tests/portfolio/_sass/layout/_footer.sass",
+				"/home/harry/Tests/portfolio/skill-content.jade",
+				"/home/harry/Tests/portfolio/index.jade",
+				"/home/harry/Tests/portfolio/_includes/header.jade",
+				"/home/harry/Tests/portfolio/_includes",
+				"/home/harry/Tests/portfolio/js/script.js",
+				"/home/harry/Tests/portfolio/_sass/_icons.scss",
+				"/home/harry/Tests/portfolio/_sass/_base.sass",
+				"/home/harry/Tests/portfolio/_sass/_vars.sass",
+				"/home/harry/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/harry/.config/sublime-text-3/Packages/Browser Refresh/Default (Linux).sublime-keymap",
+				"/home/harry/Tests/portfolio/js/script.coffee",
+				"/home/harry/Tests/portfolio/_sass/_placeholders.sass",
+				"/home/harry/Tests/portfolio/_sass/main.sass",
+				"/home/harry/Tests/portfolio/_sass/_normalize.scss",
+				"/home/harry/Tests/portfolio/index.html",
+				"/home/harry/Tests/portfolio/_sass/_layout.sass",
+				"/home/harry/Tests/portfolio/sass/main.sass",
+				"/home/harry/Tests/website/sass/_mixins.sass",
+				"/home/harry/Tests/website/css/main.css"
+			],
+			"find":
+			{
+				"height": 67.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"$color-5",
+					"$color-4",
+					"$color-3",
+					"$color-2",
+					"color-1",
+					"h1",
+					"br",
+					"Pursuing",
+					"|",
+					"text",
+					"label",
+					"import",
+					"for=\"\"",
+					"0",
+					"Goldstein",
+					"white",
+					"10px",
+					"src",
+					"(",
+					"5",
+					"400px",
+					"6",
+					"600",
+					"180",
+					"rotateY",
+					"-webkit-",
+					"{",
+					"}",
+					";",
+					"/categories",
+					"div",
+					":",
+					"</span>",
+					"href=\"/",
+					"/",
+					".html",
+					"content",
+					"'",
+					" </p>",
+					"This",
+					"<p>",
+					"title",
+					"\">\n",
+					">\n",
+					"media",
+					"h2 Ingredients\n		ul\n			li Chocolate Chips\n			li Flour\n			li Other Things\n		h2 Directions\n		p Lorem ipsum Officia velit est ",
+					"min",
+					"import",
+					"a.",
+					"a",
+					"contain",
+					"cover",
+					"100% 100%",
+					"2",
+					"255",
+					"img",
+					"card",
+					"black",
+					"section",
+					"Buddy",
+					"#",
+					"5",
+					"4",
+					"header",
+					"0",
+					"white",
+					"background: gray",
+					"&:hover::after",
+					"708090",
+					"%",
+					"708090",
+					"69%",
+					"67%",
+					"24%",
+					"22%",
+					"%",
+					"% ",
+					"22",
+					"%",
+					"px",
+					"color-2",
+					"black",
+					"+",
+					"linear",
+					"px",
+					"transparent",
+					"linear",
+					"transparent",
+					"linear",
+					"gray",
+					"rgba(255,255,255,.8)",
+					" 0px",
+					"0px"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 51.0
+			},
+			"input":
+			{
+				"height": 55.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,0,50,1598,1747,3200,1800",
+			"replace":
+			{
+				"height": 98.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 309.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,11 @@
+# ~/.tmuxinator/db.yml
+
+name: db
+root: ~/Cornell/CS4320/<%= @args[0] %>
+
+windows:
+  - editor:
+      layout: b3a2,144x31,0,0{84x31,0,0,0,59x31,85,0,1}
+      panes:
+        - 'vi'
+        - ''

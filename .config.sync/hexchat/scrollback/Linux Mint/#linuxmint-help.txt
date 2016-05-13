@@ -1,0 +1,13 @@
+T 1431956424 19*	Now talking on 22#linuxmint-help
+T 1431956424 22*	Topic for 22#linuxmint-help is: Official Linux Mint Support Channel | IRC Channel Rules: http://goo.gl/Ic9Gg | Upgrade Instructions: http://bit.ly/1JQMN1L (17 to 17.1), http://bit.ly/1KdQuC5 (LMDE to LMDE 2), and http://goo.gl/l1drP | Mint 17.1 is out: http://bit.ly/1goidRP | LMDE 2 is out: http://bit.ly/1IFoU02
+T 1431956424 22*	Topic for 22#linuxmint-help set by 26xenopeek!xenopeek@linuxmint/team/xenopeek (24Sun May 17 05:08:01 2015)
+T 1431956424 -18ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help | Please read the channel topic, including the channel rules | Use a pastebin service for posting multiple lines: http://dpaste.com | Use #linuxmint-chat for general conversation
+T 1431956430 23*	mint (mint@SpotChat-0sjqu9.jdr7.hrvh.8071.2a02.IP23) has joined
+T 1431956449 FiSHLiM plugin unloaded
+T 1431956449 Python interface unloaded
+T 1458318190 19*	Now talking on 22#linuxmint-help
+T 1458318190 22*	Topic for 22#linuxmint-help is: Official Linux Mint Support Channel | IRC Channel Rules: http://dpaste.com/0PEG7JD | Upgrade Instructions: http://blog.linuxmint.com/?p=2955 (17, 17.1 or 17.2 to 17.3), http://bit.ly/1KdQuC5 (LMDE to LMDE 2), and http://goo.gl/l1drP
+T 1458318190 22*	Topic for 22#linuxmint-help set by 26xenopeek (24Mon Mar 14 13:28:12 2016)
+T 1458318190 -18ChanServ-	[#linuxmint-help] Welcome to #linuxmint-help | Please read the channel topic, including the channel rules | Use a pastebin service for posting multiple lines: http://dpaste.com | Use #linuxmint-chat for general conversation
+T 1458318195 FiSHLiM plugin unloaded
+T 1458318195 Python interface unloaded

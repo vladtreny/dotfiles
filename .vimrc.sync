@@ -1,0 +1,163 @@
+" --------------------------
+" Harrison Goldstein's VIMRC
+" --------------------------
+
+" Plugins
+so $HOME/.vim/plugins.vim
+
+
+"---------
+" Mappings
+"---------
+
+let mapleader = " "
+
+" Map save with Ctrl-s ONLY WORKS IF stty -ixon is on in
+nnoremap <C-s> :w<cr>
+inoremap <C-s> <esc>:w<cr>
+
+" Remap arrow keys
+nnoremap <up> <nop>
+nnoremap <down> <nop>
+nnoremap <left> <nop>
+inoremap <right> <nop>
+inoremap <left> <nop>
+nnoremap <right> <nop>
+
+" NERDTree mappings
+nnoremap <C-\> :NERDTreeToggle<cr>
+
+" Create mapping for adding lines and not entering insert mode
+nnoremap <leader>o o<esc>
+nnoremap <leader>O O<esc>
+
+" Remap semicolon to colon
+nnoremap ; :
+
+" Autocomplete
+inoremap jj <C-n>
+
+vnoremap <C-c> "+y
+
+"---------------------
+" Visual Modifications
+"---------------------
+
+if &term == "xterm"
+    set term=xterm-256color
+endif
+
+set t_RV=1
+
+" Simple syntax hilighting
+syntax on
+
+" Set default line numbering
+set relativenumber
+set number
+nnoremap <leader>n :call RelNumberToggle()<cr>
+function! RelNumberToggle()
+  if &relativenumber
+    set norelativenumber
+  else
+    set relativenumber
+  endif
+endfunction
+
+colorscheme solarized
+
+" File formatters
+" Currently supported filetypes: js, c, h, ml, py, cs
+" Depends on: clang-format, ocp-indent
+autocmd BufWritePre *.{js,py,cs,java} Autoformat
+autocmd BufWritePre *.html call HtmlBeautify()
+autocmd BufWritePre *.{c,h} ClangFormat
+autocmd BufWritePre *.{ml,mli} call OcpIndent()
+let g:formatdef_custom_java = '"astyle --mode=java --style=java --indent=spaces=2"'
+let g:formatters_java = ['custom_java']
+let g:opamshare = substitute(system('opam config var share'),'\n$','','''')
+     execute "set rtp+=" . g:opamshare . "/merlin/vim"
+
+" Column 81 hilighting
+highlight ColorColumn ctermbg=magenta
+call matchadd('ColorColumn', '\%81v', 100)
+
+" Hilight searches
+set hlsearch
+nnoremap <leader>c :noh<cr>
+
+" Show whitespace
+exec "set listchars=tab:\uBB\uBB,trail:\uB7,nbsp:~"
+set list
+
+" Set highlighting color to be softer
+highlight Visual cterm=NONE ctermbg=10 ctermfg=NONE
+
+
+"-----
+" Tabs
+"-----
+
+" Easy new tab
+nnoremap <C-t> :tabnew<cr>
+
+
+"---------------------
+" Random Modifications
+"---------------------
+
+" Change tabs to spaces etc.
+set expandtab
+set tabstop=2
+set softtabstop=2
+set autoindent
+set shiftwidth=2
+
+" Autowrite buffers
+set autowriteall
+
+nnoremap h <C-w><left>
+nnoremap j <C-w><up>
+nnoremap k <C-w><down>
+nnoremap l <C-w><right>
+
+"----------------
+" Plugin Settings
+"----------------
+
+" syntastic
+let g:syntastic_check_on_open = 1
+let g:syntastic_check_on_wq = 0
+let g:syntastic_java_checkers=['javac']
+let g:syntastic_java_javac_config_file_enabled = 1
+
+" airline
+set laststatus=2
+let g:airline_powerline_fonts = 1
+let g:airline_theme = 'solarized'
+let g:airline_solarized_bg = 'light'
+let g:airline#extensions#disable_rtp_load = 1
+let g:airline#extensions#bufferline#enabled = 1
+
+set wildignore+=*/build/*
+
+command Light :call SLight()
+function! SLight()
+  let g:airline_solarized_bg = 'light'
+  set bg=light
+endfunction
+
+command Dark :call SDark()
+function! SDark()
+  colorscheme solarized
+  let g:airline_solarized_bg = 'dark'
+  set bg=dark
+endfunction
+
+command Todo :!grep -r "TODO" .
+
+if strftime("%H") < 12
+  call SLight()
+else
+  call SDark()
+endif

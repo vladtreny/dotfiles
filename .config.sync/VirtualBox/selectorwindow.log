@@ -1,0 +1,17 @@
+VirtualBox GUI VM Selector Window 5.0.2 r102096 linux.amd64 (Aug 13 2015 16:42:27) release log
+00:00:00.169367 Log opened 2016-02-09T17:55:29.743144000Z
+00:00:00.169368 Build Type: release
+00:00:00.169370 OS Product: Linux
+00:00:00.169371 OS Release: 3.16.0-4-amd64
+00:00:00.169372 OS Version: #1 SMP Debian 3.16.7-ckt20-1+deb8u1 (2015-12-14)
+00:00:00.169393 DMI Product Name: 940X3G/930X3G
+00:00:00.169399 DMI Product Version: P05ACJ
+00:00:00.169577 Host RAM: 7918MB total, 6340MB available
+00:00:00.169580 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.169581 Process ID: 11411
+00:00:00.169582 Package type: LINUX_64BITS_UBUNTU_14_04
+00:00:00.173406 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.612395 GUI: UISelectorWindow: Geometry loaded to: 2083x516 @ 1034x801
+00:00:00.641906 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.728936 Failed to open "/dev/vboxdrv", errno=13, rc=VERR_VM_DRIVER_NOT_ACCESSIBLE
+00:00:05.783117 GUI: UISelectorWindow: Geometry saved as: 2083x516 @ 1034x801

@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Emmet",
+		"Jade"
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Browser Refresh",
+		"ColorPicker",
+		"Emmet",
+		"HTMLBeautify",
+		"Jade",
+		"Jade Snippets",
+		"LoremIpsum",
+		"Package Control",
+		"Sass",
+		"SCSS"
+	]
+}

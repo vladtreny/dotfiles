@@ -1,0 +1,12 @@
+# ~/.tmuxinator/lsbm.yml
+
+name: lsbm
+root: ~/Projects/lsb/mobile
+
+windows:
+  - editor:
+      layout: e113,144x31,0,0{84x31,0,0,0,59x31,85,0[59x15,85,0,1,59x15,85,16,2]}
+      panes:
+        - 'vim -c "set wildignore+=*/platforms/*,*/node_modules/*,*/bower_components/*" .'
+        - phonegap run browser
+        - grunt

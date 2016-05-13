@@ -1,0 +1,25 @@
+2016/04/01-23:36:37.386 10278 Reusing MANIFEST /home/harry/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2016/04/01-23:36:37.386 10278 Recovering log #845
+2016/04/01-23:36:37.433 10278 Level-0 table #848: started
+2016/04/01-23:36:37.484 10278 Level-0 table #848: 1014998 bytes OK
+2016/04/01-23:36:37.494 10278 Delete type=0 #845
+2016/04/01-23:36:39.124 10278 Current memtable full; waiting...
+2016/04/01-23:36:39.125 10740 Level-0 table #851: started
+2016/04/01-23:36:39.136 10740 Level-0 table #851: 409 bytes OK
+2016/04/01-23:36:39.140 10740 Delete type=0 #849
+2016/04/01-23:36:39.141 10740 Level-0 table #853: started
+2016/04/01-23:36:39.141 10740 Level-0 table #853: 0 bytes OK
+2016/04/01-23:36:39.145 10740 Delete type=0 #850
+2016/04/01-23:36:39.145 10740 Manual compaction at level-0 from '\x009\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at '\x00\x01\x01\x02\x01\x19\x000\x006\x000\x006\x004\x003\x008\x000\x001\x004\x008\x005\x008\x005\x003\x001\x004\x009\x009\x005\x00_\x001\x00_\x00a\x00p' @ 4866 : 1
+2016/04/01-23:36:39.145 10740 Compacting 3@0 + 1@1 files
+2016/04/01-23:36:39.254 10740 Generated table #854: 29 keys, 1036388 bytes
+2016/04/01-23:36:39.254 10740 Compacted 3@0 + 1@1 files => 1036388 bytes
+2016/04/01-23:36:39.264 10740 compacted to: files[ 0 1 2 0 0 0 0 ]
+2016/04/01-23:36:39.265 10740 Delete type=2 #848
+2016/04/01-23:36:39.267 10740 Delete type=2 #844
+2016/04/01-23:36:39.268 10740 Delete type=2 #846
+2016/04/01-23:36:39.268 10740 Delete type=2 #851
+2016/04/01-23:36:39.268 10740 Manual compaction at level-0 from '\x00\x01\x01\x02\x01\x19\x000\x006\x000\x006\x004\x003\x008\x000\x001\x004\x008\x005\x008\x005\x003\x001\x004\x009\x009\x005\x00_\x001\x00_\x00a\x00p' @ 4866 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at (end)
+2016/04/01-23:37:21.404 10740 Level-0 table #856: started
+2016/04/01-23:37:21.508 10740 Level-0 table #856: 1036122 bytes OK
+2016/04/01-23:37:21.523 10740 Delete type=0 #852

@@ -1,0 +1,13 @@
+export PATH="/home/harry/.rvm/gems/ruby-2.2.2/bin:/home/harry/.rvm/rubies/ruby-2.2.2/bin:/home/harry/Packages/anaconda/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/usr/local/sbin:/usr/sbin:/sbin:/home/harry/.rvm/bin:/usr/share/cmake-3.4/bin:/home/harry/.rvm/bin:/home/harry/Cornell/CS3410/Project4/pa4-sim:/home/harry/Cornell/CS3410/Project4/mipsel-linux/bin"
+
+export PATH=$PATH:/usr/share/cmake-3.4/bin
+
+export ANDROID_HOME=/usr/android-sdk-linux
+
+export GOPATH=/usr/share/go
+
+eval $(opam config env)
+
+export JAVA_HOME="/usr/lib/jvm/jdk1.8.0_73"
+
+export PATH=$PATH:/opt/hadoop-2.7.2/bin

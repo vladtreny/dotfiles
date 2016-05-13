@@ -1,0 +1,54 @@
+{
+   "checksum": "a29de3b4dda598f1110c933e18c9e2dc",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13077492740906037",
+            "id": "7",
+            "meta_info": {
+               "stars.id": "ssc_aa174adb65f54815",
+               "stars.isSynced": "true"
+            },
+            "name": "Bookmarks",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         } ],
+         "date_added": "13087227190375979",
+         "date_modified": "13077492740906037",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13074991146827000",
+            "id": "6",
+            "meta_info": {
+               "stars.id": "c_6lnfi9657ndy",
+               "stars.imageData": "Cg5tR0tTaThtdzJ2a1pvTRI4CjZodHRwOi8vdXBsb2FkLndpa2ltZWRpYS5vcmcvd2lraWJvb2tzL2VuL2IvYmMvV2lraS5wbmcaYQpbaHR0cDovL3QwLmdzdGF0aWMuY29tL2ltYWdlcz9xPXRibjpBTmQ5R2NRd2ViWkViSWQzdTJuYVlTRktCVmZuZ0RwMXctQWdNak1keHJmMFFJVEpvX2tRWUxpMxBsGGwiHQgBEGwYbCCnGUIGEgSAAgD/SgppbWFnZS9qcGVn",
+               "stars.isSynced": "true",
+               "stars.note": "",
+               "stars.pageData": "Ig5iUklqaERBRGdpSDh0TQ==",
+               "stars.type": "2"
+            },
+            "name": "OpenSCAD User Manual/The OpenSCAD Language - Wikibooks, open books for an open world",
+            "type": "url",
+            "url": "http://en.wikibooks.org/wiki/OpenSCAD_User_Manual/The_OpenSCAD_Language"
+         } ],
+         "date_added": "13087227190375986",
+         "date_modified": "13074991146827000",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13087227190375988",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
